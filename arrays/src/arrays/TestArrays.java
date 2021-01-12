@@ -15,7 +15,7 @@ public class TestArrays {
 	        vector1= new int[4];
 	        vector2= new int[4];
 	        sumaVector= new int[4];
-	                
+	        //Sumar        
 	        for(int i=0;i<vector1.length;i++) {
 	        	System.out.println("Introduce un valor");
 	        	valor=teclado.nextInt();
