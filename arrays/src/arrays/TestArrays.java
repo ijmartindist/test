@@ -92,11 +92,7 @@ public class TestArrays {
         	aux=anArray[indice2];
 	        anArray[indice2]=anArray[indice1];
 	        anArray[indice1]=aux;
-        	
-        	1 6 7  8
-        	2 3 6  7
-        	3 9 13 15
-        	
+       
         	
 	        for(int i=0;i<anArray.length;i++) {
 	        	 System.out.println("Element at index "+i+":"+ anArray[i]);
