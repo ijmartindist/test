@@ -11,7 +11,7 @@ public class TestArrays {
 	        int[] vector1,vector2,sumaVector;
 	        int valor, suma,mayor,posicion,indice1,indice2,aux;
 	        Scanner teclado=new Scanner(System.in);
-	        
+	        //Cambio
 	        vector1= new int[4];
 	        vector2= new int[4];
 	        sumaVector= new int[4];
